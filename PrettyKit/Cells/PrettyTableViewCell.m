@@ -31,7 +31,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "PrettyDrawing.h"
 
-#define shadow_margin           4
+#define shadow_margin           1
 #define default_shadow_opacity  0.7
 
 #define contentView_margin      2
